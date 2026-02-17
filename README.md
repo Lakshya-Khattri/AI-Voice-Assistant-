@@ -4,26 +4,26 @@ An AI-powered desktop voice assistant built in Python using Google Gemini.
 Designed to demonstrate production-level skills in:
 
 AI integration
-Secure key management
-Multithreading
-Audio processing
+Secure key management ,
+Multithreading , 
+Audio processing ,
 GUI development
 
 Features :
 
-Voice input + TTS responses
-Gemini-powered intelligence
-System commands (time, browser, battery)
-CustomTkinter UI
+Voice input + TTS responses ,
+Gemini-powered intelligence ,
+System commands (time, browser, battery) ,
+CustomTkinter UI ,
 Secure environment-variable API handling
 
 Architecture :
 
-Modular design separating:
-AI logic
-Audio handling
-UI layer
-Configuration management
+Modular design separating ,
+AI logic , 
+Audio handling ,
+UI layer ,
+Configuration management ,
 Follows clean-code and separation-of-concerns principles.
 
 Security:
